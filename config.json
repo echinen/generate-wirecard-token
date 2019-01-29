@@ -1,0 +1,12 @@
+{
+    "wirecard": {
+        "DEV": {
+            "token": "",
+            "key": ""
+        },
+        "PROD": {
+            "token": "",
+            "key": ""
+        }
+    }
+}

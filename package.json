@@ -1,0 +1,13 @@
+{
+  "name": "generate-token-moip",
+  "version": "1.0.0",
+  "description": "to generate token moip manually according to the development environment.",
+  "main": "index.js",
+  "scripts": {
+    "start:DEV": "ENVIRONMENT=DEV node ./main.js",
+    "start:PROD": "ENVIRONMENT=PROD node ./main.js"
+  },
+  "keywords": [],
+  "author": "Eric Chinen",
+  "license": "ISC"
+}
